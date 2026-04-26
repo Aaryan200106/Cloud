@@ -1,0 +1,3 @@
+Public IP Address of VM: 20.205.28.108
+
+Static Website access URL for Q3: https://aryanthapar.z7.web.core.windows.net
